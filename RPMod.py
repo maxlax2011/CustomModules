@@ -144,7 +144,7 @@ class RPMod(loader.Module):
 			
 				
 		    if message.text.lower() == "чс":
-                       await message.edit("<a href=tg://user?id={user.id}>{user.first_name}</a> <b>dana был(-а) занесен(-а) в Черный Список.</b>
+                       await message.edit("<a href=tg://user?id={user.id}>{user.first_name}</a> <b>был(-а) занесен(-а) в Черный Список.</b>
 			
 
 			
